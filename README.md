@@ -42,8 +42,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/Denz1994/data-toolbox.git
+   cd data-toolbox
    ```
 
 2. **Install dependencies:**
