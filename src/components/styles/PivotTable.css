@@ -1,0 +1,34 @@
+/* PivotTable.css */
+.pivot-table {
+    padding: 20px;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 6px;
+    overflow-x: auto;
+  }
+  
+  .pivot-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .pivot-table th,
+  .pivot-table td {
+    border: 1px solid #cccccc;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  
+  .pivot-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .pivot-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .pivot-table tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
